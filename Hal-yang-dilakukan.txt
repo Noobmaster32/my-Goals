@@ -1,0 +1,3 @@
+Yang dilakukan:
+- Belajar HTML/CSS/JavaScript;
+- Belajar framework JS.
